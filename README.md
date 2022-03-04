@@ -12,7 +12,7 @@ Hey Muchachos, ¿Cómo están? Por aquí les dejo, prácticamente un tbt, una de
 
 
 
-![](/home/on3l7d15h/Escritorio/Tecnologías/Páginas%20Simples/Long/images/preview.png)
+![](./images/preview.png)
 
 
 
